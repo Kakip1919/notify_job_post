@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:sqlite:C:\Users\hidet\PycharmProjects\ptestr\test.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="lancers" uuid="38cc8b4a-da65-4aa2-90d3-30e70d3f51e4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\hidet\PycharmProjects\ptestr\lancers.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
